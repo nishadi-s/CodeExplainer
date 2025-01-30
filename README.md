@@ -18,7 +18,7 @@ To set up and run the app locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/nishadi-s/multilingual-code-explanation.git
+   git clone https://github.com/nishadi-s/CodeExplainer.git
 2. **Install the required dependencies**:
    ```bash
    pip install -r requirements.txt
