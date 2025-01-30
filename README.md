@@ -25,9 +25,6 @@ To set up and run the app locally, follow these steps:
 3. **Run the Streamlit app**:
    ```bash
    streamlit run app.py
-   
-   
-   
 
 
 
